@@ -48,6 +48,25 @@
 4. **High Reliability**: เว็บไซต์ต้องพร้อมใช้งานเสมอ และเข้าถึงได้อย่างรวดเร็ว
 5. **Everything-as-a-code**: Concept ที่เน้นเก็บทุกอย่างลงบน Code เพื่อการตรวจสอบ และ History Tracing
 
+## Preferred Technology
+### Scouter Bot
+- Node.JS
+- SQL / NoSQL (TBD)
+- Docker
+- Serverless
+### Poneglyph Website
+- React
+- Static site
+- GitHub Pages
+- CSV as databse in GitHub
+
+## ช่วยเหลือ สนับสนุน Poneglyph (Contribute)
+ตอนนี้ เรากำลังอยู่ในช่วงเริ่มต้น และต้องการคนช่วยเหลือในทุกๆ ด้าน ได้แก่
+- Frontend Developer
+- Backend Developer
+- Graphic Designer
+ติดต่อช่วยเหลือได้ที่ [Discord Dev ปลดแอก](https://discord.gg/b7vPdD)
+ (Username: Nico Robin#4622)
 
 ## LICENSE
 MIT
